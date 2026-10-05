@@ -1,4 +1,4 @@
-# 🏰 Avalon Community Servers (AvalonCS)
+# 👻 Vudira Gaming
 
 <div align="center">
 
@@ -6,16 +6,16 @@
 
 **Building reliable gaming infrastructure, software and online services.**
 
-[🌐 Website](https://avaloncs.net) •
-[💬 Discord](https://discord.avaloncs.net)
+[🌐 Website](https://vudira.com) •
+[💬 Discord](https://discord.vudira.com)
 
 </div>
 
 ---
 
-## About AvalonCS
+## About Vudira Gaming
 
-**AvalonCS** is a technology company focused on developing and operating online gaming infrastructure.
+**Vudira Gaming** is a gaming community focused on developing and operating online gaming infrastructure.
 
 Since **2016**, we have been building multiplayer services, game server platforms, automation systems and tools designed to deliver stable, fair and enjoyable gaming experiences.
 
@@ -89,9 +89,9 @@ We're always looking for talented people who share our passion for technology, g
 
 Whether you're a software developer, infrastructure engineer, system administrator, game developer, designer or community specialist, we'd love to hear from you.
 
-If you believe your skills could help shape the future of AvalonCS, send us your résumé and tell us about yourself through our contact page:
+If you believe your skills could help shape the future of Vudira Gaming, send us your résumé and tell us about yourself through our contact page:
 
-**https://avaloncs.net/contact**
+**https://vudira.com/contact**
 
 We're always interested in meeting motivated people who want to build great things together.
 
@@ -99,15 +99,15 @@ We're always interested in meeting motivated people who want to build great thin
 
 ## Contact
 
-📧🌐 https://avaloncs.net/contact
+📧🌐 https://vudira.com/contact
 
-💬 [Discord Community](https://discord.avaloncs.net)
+💬 [Discord Community](https://discord.vudira.com)
 
 ---
 
 <div align="center">
 
-**AvalonCS**
+**Vudira Gaming**
 
 Building gaming infrastructure since 2016.
 
